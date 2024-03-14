@@ -5,6 +5,8 @@ This simple tool allows you to open a specific website with the specified proxy 
 
 Instructions:
 
+- git clone https://github.com/dddddd7dd/Proxy-Tool
+
 Install Python:
 Please download and install Python on your computer from https://www.python.org/downloads/.
 
