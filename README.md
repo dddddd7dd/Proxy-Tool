@@ -10,8 +10,9 @@ Please download and install Python on your computer from https://www.python.org/
 
 
 Install Required Packages:
+
 pip install requests
-pip install playwright
-pip install beautifulsoup4
+- pip install playwright
+- pip install beautifulsoup4
 
 Run the Tool:
