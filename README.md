@@ -18,3 +18,6 @@ Install Required Packages:
 - pip install beautifulsoup4
 
 Run the Tool:
+
+- Instagram : @9b.9
+- Telegram : @Dontgivetheup
