@@ -19,5 +19,5 @@ Install Required Packages:
 
 Run the Tool:
 
-- Instagram : @9b.9
+- Instagram : @
 - Telegram : @Dontgivetheup
